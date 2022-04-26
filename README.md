@@ -1,3 +1,3 @@
 hello
 
-## Learning Git
+## Learning Gits
